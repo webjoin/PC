@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<consumptionPOes>
+	<consumptionPO>
+		<everydayFee>3.5</everydayFee>
+		<groupByDate>2013-02</groupByDate>
+		<id>10000001</id>
+		<lunchFee>3.5</lunchFee>
+		<morningFee>3.5</morningFee>
+		<recordTime>2013-02-22</recordTime>
+		<remark>A</remark>
+		<snackFee>3.5</snackFee>
+		<specialFee>3.5</specialFee>
+		<supperFee>3.5</supperFee>
+		<totalFee>24.5</totalFee>
+		<trafficFee>3.5</trafficFee>
+	</consumptionPO>
+</consumptionPOes>
